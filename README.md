@@ -1,7 +1,7 @@
 # module-connexion
 Descriptif du projet
 
-création d'un module de connexion permettant aux utilisateurs de créer leur compte, de se connecter et de modifier leurs informations.
+Création d'un module de connexion permettant aux utilisateurs de créer leur compte, de se connecter et de modifier leurs informations.
 Pour commencer, création d'une base de données nommée “moduleconnexion” à l’aide dephpmyadmin. Dans cette bdd, puis création d'une table “utilisateurs” qui contient les champs suivants :
 
 ● id, int, clé primaire et Auto Incrément

@@ -1,0 +1,26 @@
+
+
+.table_admin{
+    height: 680px;
+    background :#4b4c4d;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+table ,th, td{
+    color: white;
+    border: rgb(143, 143, 143) 2px solid;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.titre{
+   color: white;
+   font-size: 30px;
+   margin: 30px;
+}
+

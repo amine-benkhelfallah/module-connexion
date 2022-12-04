@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding:0;
+}
+.header {
+  background-color: white;
+  padding: 37px 234px;
+}
+
+/* Style the header links */
+.header a {
+
+  color: #4b4c4d;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 30px;
+  border-radius: 4px;
+}
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+body{
+    background: #4b4c4d;
+    
+}
+
+.box{
+    height: 66vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    justify-content:center;
+   
+
+    }
+
+
+.choix a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+.choix {
+    line-height: 4;
+    
+  }
+  .choix a {
+
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 30px;
+    border-radius: 4px;
+  }
